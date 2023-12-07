@@ -3,10 +3,10 @@
 ## Olá 👋, Eu sou Matheus
 <div>
 <a href="https://github.com/matheuslib/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=matheuslib&rank_icon=github&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=matheuslib&rank_icon=github&card_width=320&&theme=radical" />
 </a>
 <a href="https://github.com/matheuslib/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheuslib&layout=compact&langs_count=8&card_width=280&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheuslib&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
 </div>
 
