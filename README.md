@@ -6,13 +6,15 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=matheuslib&rank_icon=github&theme=radical" />
 </a>
 <a href="https://github.com/matheuslib/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheuslib&layout=compact&langs_count=8&card_width=320&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheuslib&layout=compact&langs_count=8&card_width=280&theme=radical" />
 </a>
 </div>
+
 ## 
 
 - 🔭 Programador FullStack
 - 🌱 Atualmente estou estudando Java
+
 <div style="display: inline_block"><br>
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
